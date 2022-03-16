@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mos-zaid&" alt="mos-zaid" /></p>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
