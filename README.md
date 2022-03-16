@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mos-zaid&show_icons=true&locale=en" alt="mos-zaid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mos-zaid&" alt="mos-zaid" /></p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
