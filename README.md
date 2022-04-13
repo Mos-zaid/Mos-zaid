@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mos-zaid" alt="mos-zaid" /></a> </p>
 
 https://github.com/Mos-zaid/stonebridge
-- 🔭 I’m currently working on [STONEBRIDGE](https://github.com/Mos-zaid/stonebridge)
+- 🔭 I’m currently working on [STONEBRIDGE](https://mos-zaid.github.io/stonebridge/), [View Repo](https://github.com/Mos-zaid/stonebridge)
 
-- ✔️ I just finished [Fidget FUNatics](https://mos-zaid.github.io/fidget-funatics/index.html)
+- ✔️ I just finished [Fidget FUNatics](https://mos-zaid.github.io/fidget-funatics/index.html), [View Repo](https://github.com/Mos-zaid/fidget-funatics)
 
 - 🌱 I’m currently learning **MERN Statck**
 
