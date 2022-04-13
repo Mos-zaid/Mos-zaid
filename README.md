@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mos-zaid" alt="mos-zaid" /></a> </p>
 
-- 🔭 I’m currently working on [Fidget FUNatics](https://mos-zaid.github.io/fidget-funatics/index.html)
+https://github.com/Mos-zaid/stonebridge
+- 🔭 I’m currently working on [STONEBRIDGE](https://github.com/Mos-zaid/stonebridge)
+
+- ✔️ I just finished [Fidget FUNatics](https://mos-zaid.github.io/fidget-funatics/index.html)
 
 - 🌱 I’m currently learning **MERN Statck**
 
