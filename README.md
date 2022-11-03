@@ -8,9 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mos-zaid" alt="mos-zaid" /></a> </p>
 
 
-- 🔭 I’m currently working on [Marijani Naturals](https://marjaninaturals.com/), You can view repo [Here](https://github.com/Mos-zaid/Marijani)
-
-- ✔️ I just finished [Manzel Financial Group](https://mos-zaid.github.io/manzel/index.html), You can view repo [Here](https://github.com/Mos-zaid/manzel)
+- 🔭 I’m currently working on [My Twitter](https://havard-twitter.herokuapp.com/tweet), You can view repo [Here](https://github.com/Mos-zaid/Twitter-Harvard)
+<!-- 
+- ✔️ I just finished [Manzel Financial Group](https://mos-zaid.github.io/manzel/index.html), You can view repo [Here](https://github.com/Mos-zaid/manzel) 
+-->
 
 - 🌱 I’m currently learning **MERN Statck**
 
