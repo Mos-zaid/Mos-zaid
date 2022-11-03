@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaid</h1>
 <h3 align="center">A passionate frontend and WordPress developer</h3>
-<p align="left">A web developer with a passion for developing WordPress themes and plugins, has experience in using Webflow, Ecwid and WordPress. Familiar with various programming languages and is always enthusiastic to add more skills to the portfolio. Also has experience in SEO, Digital Marketing and Content Development.</p>
+<p align="left">A Full-Stack web developer with a passion for developing WordPress themes and plugins. Familiar with various programming languages and is always enthusiastic to add more skills to the portfolio. Also has experience in SEO, Digital Marketing and Content Development.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mos-zaid&label=Profile%20views&color=0e75b6&style=flat" alt="mos-zaid" /> </p>
